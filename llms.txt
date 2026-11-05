@@ -7,8 +7,11 @@
 - サービス名：MANMARK（マンマーク）
 - 種別：サッカー観戦の記録・選手評価・コミュニケーションSNS
 - 対応プラットフォーム：iOS 15.1 以降 / Android 7.0 以降
-- 運営会社：KAIBYAKU株式会社（英語表記：KAIBYAKU K.K.）
+- 運営会社：KAIBYAKU株式会社（英語表記：KAIBYAKU K.K）
 - 公式サイト：https://lp.man-mark.com/
+- App Store：https://apps.apple.com/app/id6800361138
+- Google Play：https://play.google.com/store/apps/details?id=com.manmark.app
+- 料金：基本無料（有料のプレミアムプランあり）
 - キャッチコピー：サッカーの熱狂を、評価として残そう。
 
 ## 主な機能

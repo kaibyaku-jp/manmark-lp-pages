@@ -1,0 +1,6 @@
+# MANMARK の脆弱性のご報告は、運営会社 KAIBYAKU のお問い合わせフォームから（項目「セキュリティ（脆弱性）のご報告」）
+Contact: https://kaibyaku.jp/contact/?type=security
+Expires: 2027-10-24T00:00:00.000Z
+Preferred-Languages: ja, en
+Canonical: https://lp.man-mark.com/.well-known/security.txt
+Policy: https://kaibyaku.jp/security/

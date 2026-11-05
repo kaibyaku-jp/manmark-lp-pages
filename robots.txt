@@ -1,3 +1,18 @@
-# Coming Soon — クロール全禁止
-User-agent: *
+# AI学習クローラー：モデル訓練への利用を拒否
+User-agent: GPTBot
 Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# 検索・その他クローラー：すべて許可
+User-agent: *
+Allow: /
+
+Sitemap: https://lp.man-mark.com/sitemap-index.xml
